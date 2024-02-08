@@ -40,7 +40,6 @@ sampling, filtering). Describe how you reduced your data and report the new size
 
 This project was developed with the help of ChatGPT 3.5 
 
-Documentation provided only in Greek.
 
 ________________________________________
 
